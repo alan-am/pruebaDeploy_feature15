@@ -9,8 +9,6 @@ VALUES
 ('2025-03-1', DEFAULT, 'url.com', 'Electricos'),
 ('2025-03-1', DEFAULT, 'url.com', 'Accesorios');
 
-
-
 -- insercion de datos en productos
 INSERT INTO products(`category_id`, `creation_date`, `id`,`is_available`, `price_per_hour`, `stock_quantity`, `anio_lanzamiento`,
 `condicion`, `description`, `marca`, `material`, `medidas`, `modelo`, `name`, `origen`, `uso_recomendado`)
