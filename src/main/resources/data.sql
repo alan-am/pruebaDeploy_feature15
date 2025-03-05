@@ -38,24 +38,6 @@ VALUES
      'Armónica diatónica de 10 agujeros afinada en Do (C), ideal para blues y folk.',
      'Hohner', 'Metal y plástico', '10 x 3', 'Marine Band 1896',
      'Armónica Hohner Marine Band', 'Alemania', 'Música blues, folk y rock'
- ),
- (
-     3, '2024-06-17', DEFAULT, true, 50.00, 2, '2023', 'Nuevo',
-     'Piano de cola con 88 teclas, sonido envolvente y sistema de martillos de alta precisión.',
-     'Steinway & Sons', 'Madera y metal', '150 x 180', 'Model D',
-     'Piano Steinway & Sons Model D', 'Alemania', 'Conciertos y estudio profesional'
- ),
- (
-     4, '2024-06-17', DEFAULT, true, 20.00, 4, '2021', 'Seminuevo',
-     'Violín acústico con acabado en barniz brillante, ideal para principiantes y músicos avanzados.',
-     'Stradivarius', 'Madera de arce y abeto', '59 x 21', '1730',
-     'Violín Stradivarius 1730', 'Italia', 'Estudio y presentaciones en vivo'
- ),
- (
-     6, '2024-06-17', DEFAULT, true, 15.00, 6, '2022', 'Nueva',
-     'Caja de ritmos digital con secuenciador integrado y sonidos de batería electrónica.',
-     'Roland', 'Plástico y metal', '30 x 20', 'TR-8S',
-     'Caja de Ritmos Roland TR-8S', 'Japón', 'Producción musical y presentaciones en vivo'
  );
 
 
