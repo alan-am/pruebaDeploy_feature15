@@ -1,5 +1,6 @@
-SET NAMES 'utf8mb4';
+SET NAMES utf8mb4;
 SET CHARACTER SET utf8mb4;
+SET character_set_connection = utf8mb4;
 
 -- insercion de datos en categorias.
 INSERT INTO categories
