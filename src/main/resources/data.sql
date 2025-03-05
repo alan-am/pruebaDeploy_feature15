@@ -1,3 +1,6 @@
+SET NAMES 'utf8mb4';
+SET CHARACTER SET utf8mb4;
+
 -- insercion de datos en categorias.
 INSERT INTO categories
 (creation_date, id, image_url, name)
